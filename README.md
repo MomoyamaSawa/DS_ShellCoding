@@ -1,5 +1,5 @@
 <p align = 'center'>
-  <img width='150' src='./README.assets/stamp0013.png'>
+  <img width='150' src='./README.assets/stamp0161.png'>
 </p>
 <p align = 'center'> 🥕 </p>
 <p align = 'center'> 如果兔兔的仓库对你有帮助的话点个⭐喵~ </p>
